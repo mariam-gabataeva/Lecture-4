@@ -46,3 +46,39 @@ body{
 	margin-left: 56px;
 	margin-bottom: 30px;
 }
+.fashion-section{
+	width: 271px;
+	height: 280px;
+	fill: #FFF;
+	stroke-width: 1px;
+	stroke: #E5E5E5;
+	margin-left: 25px;
+	display: inline-block;
+}
+.art2{
+
+}
+.sculpture-section{
+	width: 271px;
+	height: 280px;
+	flex-shrink: 0;
+	fill: #FFF;
+	stroke-width: 1px;
+	stroke: #E5E5E5;
+	display: inline-block;
+	margin-left: 25px;
+
+}
+.see-more{
+	margin-left: 459px;
+	width: 160px;
+	height: 49px;
+	border-radius: 5px;
+	background: #EB6649;
+	box-shadow: 0px 4px 10px 0px rgba(235, 102, 73, 0.25);
+
+}
+.more{
+	margin-left: 49px;
+	margin-bottom: 15px;
+}
