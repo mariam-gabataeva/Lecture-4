@@ -1,0 +1,48 @@
+body{
+	background: #F4EFE5;
+	font-family: 'Mulish', sans-serif;
+}
+.body-style{
+	width: 1145px;
+	height: 684px;
+	border-radius: 10px;
+	margin: 265px auto;
+	background: #FFF;
+	box-shadow: 0px 7px 104px 0px rgba(227, 206, 173, 0.74);
+}
+.style-all, .style-photo, .style-fashion, .style-sculpture{
+	display: inline-block;
+}
+.style-all{
+	margin-top: 92px;
+	margin-left: 382px;
+}
+.style-photo{
+	margin-left: 45px;
+}
+.style-fashion{
+	margin-left: 45px;
+}
+.style-sculpture{
+	margin-left: 45px;
+}
+.art-section{
+	border:2px solid white;
+	width: 271px;
+	height: 280px;
+	fill: #FFF;
+	stroke-width: 1px;
+	stroke: #E5E5E5;
+	margin-top: 90px;
+	margin-left: 141px;
+	display: inline-block;
+}
+
+.text1{
+	margin-top: 30px;
+	margin-left: 66px;
+}
+.text2{
+	margin-left: 56px;
+	margin-bottom: 30px;
+}
